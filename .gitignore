@@ -1,0 +1,7 @@
+.project
+.classpath
+.settings
+/actionbarsherlock
+target/
+gen/
+bin/
